@@ -31,7 +31,7 @@
   },
   "homepage": "https://github.com/sean-madhavan/paypal-express-checkout#readme",
   "engines": {
-    "node": ">=6 && <7",
+    "node": ">=6",
     "npm": ">=3"
   },
   "devDependencies": {
